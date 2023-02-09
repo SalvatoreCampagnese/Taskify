@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">taskify</string>
-    <string name="title_activity_main">taskify</string>
-    <string name="package_name">it.scampagnese.taskify</string>
-    <string name="custom_url_scheme">it.scampagnese.taskify</string>
-</resources>
